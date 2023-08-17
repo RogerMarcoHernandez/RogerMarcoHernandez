@@ -1,4 +1,17 @@
-### Hi there 👋
+### Roger Marco Hernandez 🇪🇸
+https://github.com/hampusborgos/country-flags/blob/main/svg/es.svg
+#### Languages
+- Spanish 🇪🇸
+- English 🇬🇧
+- Catalan [![catalan](https://github.com/hampusborgos/country-flags/blob/main/svg/es.svg)](https://github.com/RogerMarcoHernandez/)
+
+#### Studies
+- High School (Technology and Sciencie)[https://www.valldemia.maristes.cat/]
+- 4 years University (Computer Engineering specialized in Software Engineering)[https://www.fib.upc.edu/es]
+
+#### Certificates
+- (Front End Development Libraries)[https://www.freecodecamp.org/certification/RogerMarcoHernandez/front-end-development-libraries]
+- (Responsive Web Developer)[https://devchallenges.io/certificates/Kv8MXinRASpZQYJYnkmk]
 
 <!--
 **RogerMarcoHernandez/RogerMarcoHernandez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
