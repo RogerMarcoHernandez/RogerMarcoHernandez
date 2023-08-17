@@ -12,28 +12,33 @@ Software Engineer who loves learning and using future technologies.
 
 ###### Programming 🧑‍💻
 
-- C
-- C++
-- Java -> JUnit, JSwing
-- JavaScript -> ESM5, ESM6
-- HTML
-- SLIM
-- HAML
-- CSS -> SASS, SCSS, PostCSS
-- React -> ReactJS, NextJS, ReactRedux
-- Ruby -> Ruby on Rails
-- SQL -> MySQL, SQLite3, PostgreSQL
-- Python -> Machine Learning, OCR, TensorFlow
+| Language   | Details                             |
+|------------|-------------------------------------|
+| C          |                                     |
+| C++        |                                     |
+| Java       | JUnit, JSwing                       |
+| JavaScript | ECMAScript5, ECMAScript6            |
+| HTML       |                                     |
+| SLIM       |                                     |
+| HAML       |                                     |
+| CSS        | SASS, SCSS, PostCSS                 |
+| React      | ReactJS, NextJS, ReactRedux         |
+| Ruby       | Ruby on Rails                       |
+| SQL        | MySQL, SQLite3, PostgreSQL, MariaDB |
+| Python     | Machine Learning, OCR, TensorFlow   |
 
 ###### Software design 🏗️
 
 - UML
 
 ##### Spoken languages 🌐
-- Spanish (Native)
-- English (Cambridge B2 First)
-- Catalan (Native)
-- Portuguese (Self-taught)
+
+| Language   | Level              |
+|------------|--------------------|
+| Spanish    | Native             |
+| English    | Cambridge B2 First |
+| Catalan    | Native             |
+| Portuguese | Self-taught        |
 
 ##### Studies 🧑‍🎓
 
