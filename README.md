@@ -1,29 +1,50 @@
-### Roger Marco Hernandez 🇪🇸
-https://github.com/hampusborgos/country-flags/blob/main/svg/es.svg
-#### Languages
-- Spanish 🇪🇸
-- English 🇬🇧
-- Catalan [![catalan](https://github.com/hampusborgos/country-flags/blob/main/svg/es.svg)](https://github.com/RogerMarcoHernandez/)
+### Roger Marco Hernandez 🌟
 
-#### Studies
+Software Engineer who loves learning and using future technologies.
+
+#### Current situation
+
+- 🌱 I’m currently learning Front-end development
+
+#### About me ℹ️
+
+##### Hard skills 💫
+
+###### Programming 🧑‍💻
+
+- C
+- C++
+- Java -> JUnit, JSwing
+- JavaScript -> ESM5, ESM6
+- HTML
+- SLIM
+- HAML
+- CSS -> SASS, SCSS, PostCSS
+- React -> ReactJS, NextJS, ReactRedux
+- Ruby -> Ruby on Rails
+- SQL -> MySQL, SQLite3, PostgreSQL
+- Python -> Machine Learning, OCR, TensorFlow
+
+###### Software design 🏗️
+
+- UML
+
+##### Spoken languages 🌐
+- Spanish (Native)
+- English (Cambridge B2 First)
+- Catalan (Native)
+- Portuguese (Self-taught)
+
+##### Studies 🧑‍🎓
+
 - High School (Technology and Sciencie)[https://www.valldemia.maristes.cat/]
 - 4 years University (Computer Engineering specialized in Software Engineering)[https://www.fib.upc.edu/es]
 
-#### Certificates
+##### Certificates 📜
+
 - (Front End Development Libraries)[https://www.freecodecamp.org/certification/RogerMarcoHernandez/front-end-development-libraries]
 - (Responsive Web Developer)[https://devchallenges.io/certificates/Kv8MXinRASpZQYJYnkmk]
 
-<!--
-**RogerMarcoHernandez/RogerMarcoHernandez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##### Contact me
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- (Email)[bluntun@gmail.com]
