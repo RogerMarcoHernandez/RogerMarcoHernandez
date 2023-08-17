@@ -37,8 +37,8 @@ Software Engineer who loves learning and using future technologies.
 
 ##### Studies 🧑‍🎓
 
-- High School [Technology and Sciencie](https://www.valldemia.maristes.cat/)
-- 4 years University [Computer Engineering specialized in Software Engineering](https://www.fib.upc.edu/es)
+- [High School Technology and Sciencie](https://www.valldemia.maristes.cat/)
+- [4 years University Computer Engineering specialized in Software Engineering](https://www.fib.upc.edu/es)
 
 ##### Certificates 📜
 
@@ -46,4 +46,4 @@ Software Engineer who loves learning and using future technologies.
 - [Responsive Web Developer](https://devchallenges.io/certificates/Kv8MXinRASpZQYJYnkmk)
 ##### Contact me
 
-- [Email](bluntun@gmail.com)
+- bluntun@gmail.com
