@@ -37,14 +37,13 @@ Software Engineer who loves learning and using future technologies.
 
 ##### Studies 🧑‍🎓
 
-- High School (Technology and Sciencie)[https://www.valldemia.maristes.cat/]
-- 4 years University (Computer Engineering specialized in Software Engineering)[https://www.fib.upc.edu/es]
+- High School [Technology and Sciencie](https://www.valldemia.maristes.cat/)
+- 4 years University [Computer Engineering specialized in Software Engineering](https://www.fib.upc.edu/es)
 
 ##### Certificates 📜
 
-- (Front End Development Libraries)[https://www.freecodecamp.org/certification/RogerMarcoHernandez/front-end-development-libraries]
-- (Responsive Web Developer)[https://devchallenges.io/certificates/Kv8MXinRASpZQYJYnkmk]
-
+- [Front End Development Libraries](https://www.freecodecamp.org/certification/RogerMarcoHernandez/front-end-development-libraries)
+- [Responsive Web Developer](https://devchallenges.io/certificates/Kv8MXinRASpZQYJYnkmk)
 ##### Contact me
 
-- (Email)[bluntun@gmail.com]
+- [Email](bluntun@gmail.com)
