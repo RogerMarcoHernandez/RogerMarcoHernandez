@@ -4,7 +4,7 @@ Software Engineer who loves learning and using future technologies.
 
 #### Current situation
 
-- 🌱 I’m currently learning Front-end development
+- 🌱 I’m currently learning Full-stack development
 
 #### About me ℹ️
 
