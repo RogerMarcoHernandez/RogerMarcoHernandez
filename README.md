@@ -17,7 +17,7 @@ Software Engineer and Full-stack Developer who loves learning and using future t
 | C          |                                     |
 | C++        |                                     |
 | Java       | JUnit, JSwing                       |
-| JavaScript | ECMAScript5, ECMAScript6            |
+| JavaScript | ECMAScript5, ECMAScript6, TypeScript            |
 | HTML       |                                     |
 | SLIM       |                                     |
 | HAML       |                                     |
