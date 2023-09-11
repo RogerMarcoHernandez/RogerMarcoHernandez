@@ -24,7 +24,8 @@ Software Engineer and Full-stack Developer who loves learning and using future t
 | CSS        | SASS, SCSS, PostCSS                 |
 | React      | ReactJS, NextJS, ReactRedux         |
 | Ruby       | Ruby on Rails                       |
-| SQL        | MySQL, SQLite3, PostgreSQL, MariaDB, MongoDB |
+| SQL        | MySQL, SQLite3, PostgreSQL, MariaDB |
+| NoSQL | MongoDB |
 | Python     | Machine Learning, OCR, TensorFlow   |
 
 ###### Software design 🏗️
