@@ -48,9 +48,9 @@ Software Engineer and Full-stack Developer who loves learning and using future t
 ##### Certificates 📜
 
 - [Front End Development Libraries](https://www.freecodecamp.org/certification/RogerMarcoHernandez/front-end-development-libraries)
-- [Responsive Web Developer](https://devchallenges.io/certificates/Kv8MXinRASpZQYJYnkmk)
-- [Front End Developer](https://devchallenges.io/certificates/kov5AAlGN3K6oQ71XvMb)
-- [Full Stack Developer](https://devchallenges.io/certificates/Ffsv0mrSzbs8i3RmlN38)
+- [Responsive Web Developer](https://legacy.devchallenges.io/certificates/kov5AAlGN3K6oQ71XvMb)
+- [Front End Developer](https://legacy.devchallenges.io/certificates/kov5AAlGN3K6oQ71XvMb)
+- [Full Stack Developer](https://legacy.devchallenges.io/certificates/Ffsv0mrSzbs8i3RmlN38)
 
 ##### Contact me
 
