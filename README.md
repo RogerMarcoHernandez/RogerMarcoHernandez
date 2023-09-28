@@ -52,6 +52,12 @@ Software Engineer and Full-stack Developer who loves learning and using future t
 - [Front End Developer](https://legacy.devchallenges.io/certificates/kov5AAlGN3K6oQ71XvMb)
 - [Full Stack Developer](https://legacy.devchallenges.io/certificates/Ffsv0mrSzbs8i3RmlN38)
 
+##### Learning Platforms
+
+  - [LeetCode](https://leetcode.com/RogerMarcoHernandez/)
+  - [devChallenges](https://legacy.devchallenges.io/portfolio/RogerMarcoHernandez)
+  - [FreeCodeCamp](https://www.freecodecamp.org/RogerMarcoHernandez)
+
 ##### Contact me
 
 - bluntun@gmail.com
