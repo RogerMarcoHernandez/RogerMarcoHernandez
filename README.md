@@ -61,3 +61,4 @@ Software Engineer and Full-stack Developer who loves learning and using future t
 ##### Contact me
 
 - bluntun@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/roger-marco-898863291/)
