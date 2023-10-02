@@ -17,7 +17,7 @@ Software Engineer and Full-stack Developer who loves learning and using future t
 | C          |                                     |
 | C++        |                                     |
 | Java       | JUnit, JSwing                       |
-| JavaScript | ES5 - ES2022, TypeScript, Bun.js, Node.js, React, Next, Redux, AngularJS (In Progress)            |
+| JavaScript | ES5 - ES2022, TypeScript, Bun.js, Node.js, React, Next, Redux, AngularJS 1            |
 | HTML       |                                     |
 | SLIM       |                                     |
 | HAML       |                                     |
