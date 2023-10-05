@@ -1,10 +1,10 @@
 ### Roger Marco Hernandez 🌟
 
-Software Engineer and Full-stack Developer who loves learning and using future technologies.
+Software Engineer who loves learning and using future technologies.
 
 #### Current situation
 
-- 🌱 I’m currently learning Full-stack development
+- 🌱 I’m currently learning Spring
 
 #### About me ℹ️
 
