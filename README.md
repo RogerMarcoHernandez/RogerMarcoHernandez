@@ -16,7 +16,7 @@ Software Engineer who loves learning and using future technologies.
 |------------|-------------------------------------|
 | C          |                                     |
 | C++        |                                     |
-| Java       | JUnit, JSwing, Spring (Learning)                       |
+| Java       | JUnit, JSwing, Spring                       |
 | JavaScript | ES5 - ES2022, TypeScript, Bun.js, Node.js, ReactJS, NextJS, AngularJS 1            |
 | HTML       |                                     |
 | SLIM       |                                     |
