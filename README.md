@@ -51,7 +51,7 @@ Software Engineer who loves learning and using future technologies.
 - [Responsive Web Developer](https://legacy.devchallenges.io/certificates/Kv8MXinRASpZQYJYnkmk)
 - [Front End Developer](https://legacy.devchallenges.io/certificates/kov5AAlGN3K6oQ71XvMb)
 - [Full Stack Developer](https://legacy.devchallenges.io/certificates/Ffsv0mrSzbs8i3RmlN38)
-- Spring Certified Professional - VMWare
+- [Spring Certified Professional](https://www.credly.com/badges/4979162a-e358-416b-bfb1-e155b3688696/linked_in_profile)
 
 ##### Learning Platforms
 
