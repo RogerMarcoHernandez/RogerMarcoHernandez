@@ -27,6 +27,12 @@ Software Engineer who loves learning and using future technologies.
 | NoSQL | MongoDB |
 | Python     | Machine Learning, OCR, TensorFlow   |
 
+| Tools   | Details                             |
+|------------|-------------------------------------|
+| Docker          |      |
+| Git          | GitHub, GitLab      |
+| Kubernetes (LEARNING)          |      |
+
 ###### Software design 🏗️
 
 - UML
