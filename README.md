@@ -27,11 +27,17 @@ Software Engineer who loves learning and using future technologies.
 | NoSQL | MongoDB |
 | Python     | Machine Learning, OCR, TensorFlow   |
 
+###### DevOps
+
 | Tools   | Details                             |
 |------------|-------------------------------------|
 | Docker          |      |
 | Git          | GitHub, GitLab      |
-| Kubernetes (LEARNING)          |      |
+| Kubernetes         |      |
+
+| CI/CD   | Details                             |
+|------------|-------------------------------------|
+| GitLab |      |
 
 ###### Software design 🏗️
 
